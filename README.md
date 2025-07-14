@@ -6,8 +6,9 @@
 [![reddit profile link](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED761?&style=for-the-badge&logo=spotify&logoColor=white)]()
+<!--
 [![snapchat profile link](https://img.shields.io/badge/Snapchat-FFFC00?&style=for-the-badge&logo=snapchat&logoColor=black)]()
-
+-->
 
 ## ABOUT ME 🙋‍♂️
 
@@ -54,11 +55,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-538A9C?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-E8EDEA?style=for-the-badge&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-DAA449?style=for-the-badge&logo=exordo&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-1D6F42?style=for-the-badge&logo=googlesheets&logoColor=white)
+<!--![Seaborn](https://img.shields.io/badge/Seaborn-DAA449?style=for-the-badge&logo=exordo&logoColor=white) -->
 
 &nbsp;
 **Miscellaneous:** <br>
@@ -71,8 +72,9 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<!--
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
-
+-->
 
 ![profile view count](https://komarev.com/ghpvc/?username=gopidodda-usf)
 
