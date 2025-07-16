@@ -19,7 +19,6 @@
 📚 **Deep diving into AI**, exploring its foundations, applications and ethical dimensions. <br/>
 💡 Driven by curiosity and ethics, with a focus on building responsible AI systems and sustainable data solutions. 🤝 </br>
 
-
 ## TECH STACK 💻
 
 &nbsp;
@@ -76,8 +75,6 @@
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
 -->
 
-![profile view count](https://komarev.com/ghpvc/?username=gopidodda-usf)
-
 
 <!--
 **gopidodda-usf/gopidodda-usf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -108,4 +105,7 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gopidodda-usf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+![profile view count](https://komarev.com/ghpvc/?username=gopidodda-usf)
 
