@@ -93,10 +93,9 @@ Here are some ideas to get you started:
 
 
 ## GITHUB STATS 📊
-![](https://github-readme-stats.vercel.app/api?username=gopidodda-usf&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=gopidodda-usf&theme=default&hide_border=false)<br/>
-
+![](https://streak-stats.demolab.com/?user=gopidodda-usf&theme=default&currStreakNum=434d58&sideNums=434d58&card_width=500&border_radius=0)
+![](https://github-readme-stats.vercel.app/api?username=gopidodda-usf&theme=default&hide_title=true&text_color=434d58&show_icons=true&icon_color=fb8c00&rank_icon=github&ring_color=fb8c00&line_height=30&card_width=500&border_radius=0&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopidodda-usf&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
