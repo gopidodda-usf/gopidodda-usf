@@ -10,6 +10,7 @@
 [![snapchat profile link](https://img.shields.io/badge/Snapchat-FFFC00?&style=for-the-badge&logo=snapchat&logoColor=black)]()
 -->
 
+
 ## ABOUT ME 🙋‍♂️
 
 👨‍💻 Data Analytics Professional with **4+ years of industry experience**. <br/>
@@ -18,6 +19,7 @@
 🎓 Currently pursuing a masters degree in **Artificial Intelligence and Business Analytics** at the University of South Florida. 🤘💚💛 <br/>
 📚 **Deep diving into AI**, exploring its foundations, applications and ethical dimensions. <br/>
 💡 Driven by curiosity and ethics, with a focus on building responsible AI systems and sustainable data solutions. 🤝 </br>
+
 
 ## TECH STACK 💻
 
@@ -76,6 +78,19 @@
 -->
 
 
+## GITHUB STATS 📊
+
+![](https://komarev.com/ghpvc/?username=gopidodda-usf&label=PROFILE+VIEWS+%20+%20&color=fb8c00&abbreviated=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=gopidodda-usf&theme=default&currStreakNum=434d58&currStreakLabel=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58&card_width=500&border_radius=0)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gopidodda-usf&theme=default&hide_title=true&text_color=434d58&show_icons=true&icon_color=fb8c00&rank_icon=github&ring_color=fb8c00&line_height=30&card_width=500&border_radius=0&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopidodda-usf&theme=default&layout=compact&title_color=434d58&text_color=434d58&line_height=30&card_width=500&border_radius=0&include_all_commits=true&count_private=true)<br/>
+
+![](https://quotes-github-readme.vercel.app/api?theme=default&quoteColor=434d58&authorColor=fb8c00&symbolColor=fb8c00&card_width=500&border_radius=0)
+
+---
+
+
 <!--
 **gopidodda-usf/gopidodda-usf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -91,22 +106,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## GITHUB STATS 📊
-
-![](https://streak-stats.demolab.com/?user=gopidodda-usf&theme=default&currStreakNum=434d58&currStreakLabel=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58&card_width=500&border_radius=0)
-![](https://github-readme-stats.vercel.app/api?username=gopidodda-usf&theme=default&hide_title=true&text_color=434d58&show_icons=true&icon_color=fb8c00&rank_icon=github&ring_color=fb8c00&line_height=30&card_width=500&border_radius=0&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopidodda-usf&theme=default&layout=compact&title_color=434d58&text_color=434d58&line_height=30&card_width=1005&border_radius=0&include_all_commits=true&count_private=true)
-
-![random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gopidodda-usf&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=gopidodda-usf&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-![profile view count](https://komarev.com/ghpvc/?username=gopidodda-usf)
 
