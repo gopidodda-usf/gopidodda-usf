@@ -1,4 +1,4 @@
-# Hi there, I'm GOPI DODDA 👋
+# Hi there, I'm GOPI DODDA 👋🏻
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=LogMeIn&logoColor=white)](https://linkedin.com/in/gopidodda96)
 [![medium profile link](https://img.shields.io/badge/Medium-444443?style=for-the-badge&logo=medium&logoColor=white)]()
 [![instagram profile link](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)]()
@@ -11,9 +11,9 @@
 -->
 
 
-## ABOUT ME 🙋‍♂️
+## ABOUT ME 🙋🏻‍♂️
 
-👨‍💻 Data Analytics Professional with **4+ years of industry experience**. <br/>
+👨🏻‍💻 Data Analytics Professional with **4+ years of industry experience**. <br/>
 🚀 Sharing my journey and insights in the tech and data science landscape. <br/>
 🇮🇳 Originally from India, currently living in **Tampa, FL**. 🇺🇸 </br>
 🎓 Currently pursuing a masters degree in **Artificial Intelligence and Business Analytics** at the University of South Florida. 🤘💚💛 <br/>
