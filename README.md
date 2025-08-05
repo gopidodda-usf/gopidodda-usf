@@ -1,4 +1,4 @@
-# Hi there, I'm GOPI DODDA 👋🏻
+# Hi there, I'm GOPI 👋🏻
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=LogMeIn&logoColor=white)](https://linkedin.com/in/gopidodda96)
 [![medium profile link](https://img.shields.io/badge/Medium-444443?style=for-the-badge&logo=medium&logoColor=white)]()
 [![instagram profile link](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)]()
