@@ -78,7 +78,6 @@
 -->
 
 
-
 ## GITHUB STATS 📊
 
 ![GitHub Streak](https://github-readme-streak-stats-two-ivory.vercel.app?user=gopidodda-usf&theme=default&currStreakNum=434d58&currStreakLabel=434d58&sideNums=434d58&sideLabels=434d58&dates=434d58&card_width=500&border_radius=0) <br/>
@@ -88,6 +87,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gopidodda-usf&label=PROFILE+VIEWS+%20+%20&color=fb8c00&abbreviated=true) <br/>
 
 ![Random Quotes](https://quotes-github-readme.vercel.app/api?theme=default&quoteColor=434d58&authorColor=fb8c00&symbolColor=fb8c00&card_width=500&border_radius=0)
+
 
 
 <!--
