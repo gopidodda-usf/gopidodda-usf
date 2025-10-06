@@ -18,7 +18,7 @@
 🇮🇳 Originally from India, currently living in **Tampa, FL**. 🇺🇸 </br>
 🎓 Currently pursuing a masters degree in **Artificial Intelligence and Business Analytics** at the University of South Florida. 🤘💚💛 <br/>
 📚 **Deep diving into AI**, exploring its foundations, applications and ethical dimensions. <br/>
-💡 Driven by curiosity and ethics, with a focus on building responsible AI systems and sustainable data solutions. 🤝 </br>
+💡 Driven by curiosity and ethics, with a focus on building responsible AI systems and sustainable data solutions. </br>
 
 
 ## TECH STACK 💻
